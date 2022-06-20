@@ -3,17 +3,21 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
  
 
 Dear Participant,
+ 
+ You are invited to participate in the fourth annual Julia user and developer survey. The results of this survey will be presented at JuliaCon 2022 this summer and will also be made publicly available online. The survey is developed, administered and analyzed by Julia Computing with input from the Julia community. We value your time and appreciate your participation. This survey consists of 40 questions and is expected to take no more than 10-15 minutes to complete.
 
- You are invited to participate in the third annual Julia user and developer survey. The results of this survey will be presented in time for JuliaCon 2021 this summer and will also be made publicly available online. We value your time and appreciate your participation. This survey consists of 37 questions and is expected to take no more than 10-15 minutes to complete.
+ 
 
+At the end of the survey, you will be invited to enter a raffle to win a free Julia t-shirt! Please click the link at the end of the survey to enter to win.
+ 
  Your participation is voluntary and anonymous and no personal information will ever be shared.
-
+ 
  Please feel free to forward to colleagues and friends who are Julia users.
-
+ 
  Thank you for your participation!
-
+ 
  Sincerely,
-
+ 
  Jeff Bezanson, Stefan Karpinski, Viral Shah and Alan Edelman
  Julia Co-Creators
 
@@ -21,97 +25,103 @@ Dear Participant,
 
 DO NOT COMPLETE THE SURVEY AT THIS TIME
 
-1. How frequently do you use each of the following languages?
+ 
+
+1. Which of the following languages have you used regularly or frequently during the past year, and which do you plan to continue to use regularly or frequently during the next year? If you have used a language regularly or frequently during the past year AND you plan to continue using that language regularly or frequently during the next year, please select both boxes for that question. Please leave the row blank for any language you have not used regularly or frequently during the past year and you do not plan to use regularly or frequently during the next year.
 
  
 
-|                         | Great deal | Some | None |
-| ----------------------- | ---------- | ---- | ---- |
-| Julia                   |            |      |      |
-| Bash, Shell, PowerShell |            |      |      |
-| C                       |            |      |      |
-| C++                     |            |      |      |
-| C#                      |            |      |      |
-| Clojure                 |            |      |      |
-| Crystal                 |            |      |      |
-| Elixir                  |            |      |      |
-| Fortran                 |            |      |      |
-| F#                      |            |      |      |
-| Go                      |            |      |      |
-| Haskell                 |            |      |      |
-| Java                    |            |      |      |
-| JavaScript              |            |      |      |
-| Kotlin                  |            |      |      |
-| Lisp                    |            |      |      |
-| Lua                     |            |      |      |
-| Maple                   |            |      |      |
-| Mathematica             |            |      |      |
-| MATLAB                  |            |      |      |
-| Nim                     |            |      |      |
-| Octave                  |            |      |      |
-| Perl                    |            |      |      |
-| PHP                     |            |      |      |
-| Python                  |            |      |      |
-| R                       |            |      |      |
-| Ruby                    |            |      |      |
-| Rust                    |            |      |      |
-| SAS                     |            |      |      |
-| Scala                   |            |      |      |
-| Scheme                  |            |      |      |
-| SQL                     |            |      |      |
-| Stata                   |            |      |      |
-| Swift                   |            |      |      |
-| Typescript              |            |      |      |
-| Visual Basic, VBA       |            |      |      |
-| Zig                     |            |      |      |
-
-2. How much do you like each of the following languages?
-
- 
-
-|                         | One of my favorite languages | Like | Neutral | Dislike | Don’t know, no opinion |
-| ----------------------- | ---------------------------- | ---- | ------- | ------- | ---------------------- |
-| Julia                   |                              |      |         |         |                        |
-| Bash, Shell, PowerShell |                              |      |         |         |                        |
-| C                       |                              |      |         |         |                        |
-| C++                     |                              |      |         |         |                        |
-| C#                      |                              |      |         |         |                        |
-| Clojure                 |                              |      |         |         |                        |
-| Crystal                 |                              |      |         |         |                        |
-| Elixir                  |                              |      |         |         |                        |
-| Fortran                 |                              |      |         |         |                        |
-| F#                      |                              |      |         |         |                        |
-| Go                      |                              |      |         |         |                        |
-| Haskell                 |                              |      |         |         |                        |
-| Java                    |                              |      |         |         |                        |
-| JavaScript              |                              |      |         |         |                        |
-| Kotlin                  |                              |      |         |         |                        |
-| Lisp                    |                              |      |         |         |                        |
-| Lua                     |                              |      |         |         |                        |
-| Maple                   |                              |      |         |         |                        |
-| Mathematica             |                              |      |         |         |                        |
-| MATLAB                  |                              |      |         |         |                        |
-| Nim                     |                              |      |         |         |                        |
-| Octave                  |                              |      |         |         |                        |
-| Perl                    |                              |      |         |         |                        |
-| PHP                     |                              |      |         |         |                        |
-| Python                  |                              |      |         |         |                        |
-| R                       |                              |      |         |         |                        |
-| Ruby                    |                              |      |         |         |                        |
-| Rust                    |                              |      |         |         |                        |
-| SAS                     |                              |      |         |         |                        |
-| Scala                   |                              |      |         |         |                        |
-| Scheme                  |                              |      |         |         |                        |
-| SQL                     |                              |      |         |         |                        |
-| Stata                   |                              |      |         |         |                        |
-| Swift                   |                              |      |         |         |                        |
-| Typescript              |                              |      |         |         |                        |
-| Visual Basic, VBA       |                              |      |         |         |                        |
-| Zig                     |                              |      |         |         |                        |
+|                         | Have used regularly or frequently during the  past year | Plan to use regularly or frequently during the  next year |
+| ----------------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| Julia                   |                                                         |                                                           |
+| Bash, Shell, PowerShell |                                                         |                                                           |
+| C                       |                                                         |                                                           |
+| C++                     |                                                         |                                                           |
+| C#                      |                                                         |                                                           |
+| Clojure                 |                                                         |                                                           |
+| Crystal                 |                                                         |                                                           |
+| Elixir                  |                                                         |                                                           |
+| Fortran                 |                                                         |                                                           |
+| F#                      |                                                         |                                                           |
+| Go                      |                                                         |                                                           |
+| Haskell                 |                                                         |                                                           |
+| Java                    |                                                         |                                                           |
+| JavaScript              |                                                         |                                                           |
+| Kotlin                  |                                                         |                                                           |
+| Lisp                    |                                                         |                                                           |
+| Lua                     |                                                         |                                                           |
+| Maple                   |                                                         |                                                           |
+| Mathematica             |                                                         |                                                           |
+| MATLAB                  |                                                         |                                                           |
+| Nim                     |                                                         |                                                           |
+| Octave                  |                                                         |                                                           |
+| Perl                    |                                                         |                                                           |
+| PHP                     |                                                         |                                                           |
+| Python                  |                                                         |                                                           |
+| R                       |                                                         |                                                           |
+| Ruby                    |                                                         |                                                           |
+| Rust                    |                                                         |                                                           |
+| SAS                     |                                                         |                                                           |
+| Scala                   |                                                         |                                                           |
+| Scheme                  |                                                         |                                                           |
+| Smalltalk               |                                                         |                                                           |
+| SQL                     |                                                         |                                                           |
+| Stata                   |                                                         |                                                           |
+| Swift                   |                                                         |                                                           |
+| Typescript              |                                                         |                                                           |
+| Visual Basic, VBA       |                                                         |                                                           |
+| Zig                     |                                                         |                                                           |
 
  
 
-3. Thinking only about the TECHNICAL aspects or features of Julia, what are the TECHNICAL aspects or features you like MOST about Julia? Please select all that apply. ROTATE
+2. How much do you like each of the following languages? If you don’t know or have not used a language, please leave it blank.
+
+ 
+
+|                         | One of my favorite languages | Like | Neutral | Dislike |
+| ----------------------- | ---------------------------- | ---- | ------- | ------- |
+| Julia                   |                              |      |         |         |
+| Bash, Shell, PowerShell |                              |      |         |         |
+| C                       |                              |      |         |         |
+| C++                     |                              |      |         |         |
+| C#                      |                              |      |         |         |
+| Clojure                 |                              |      |         |         |
+| Crystal                 |                              |      |         |         |
+| Elixir                  |                              |      |         |         |
+| Fortran                 |                              |      |         |         |
+| F#                      |                              |      |         |         |
+| Go                      |                              |      |         |         |
+| Haskell                 |                              |      |         |         |
+| Java                    |                              |      |         |         |
+| JavaScript              |                              |      |         |         |
+| Kotlin                  |                              |      |         |         |
+| Lisp                    |                              |      |         |         |
+| Lua                     |                              |      |         |         |
+| Maple                   |                              |      |         |         |
+| Mathematica             |                              |      |         |         |
+| MATLAB                  |                              |      |         |         |
+| Nim                     |                              |      |         |         |
+| Octave                  |                              |      |         |         |
+| Perl                    |                              |      |         |         |
+| PHP                     |                              |      |         |         |
+| Python                  |                              |      |         |         |
+| R                       |                              |      |         |         |
+| Ruby                    |                              |      |         |         |
+| Rust                    |                              |      |         |         |
+| SAS                     |                              |      |         |         |
+| Scala                   |                              |      |         |         |
+| Scheme                  |                              |      |         |         |
+| Smalltalk               |                              |      |         |         |
+| SQL                     |                              |      |         |         |
+| Stata                   |                              |      |         |         |
+| Swift                   |                              |      |         |         |
+| Typescript              |                              |      |         |         |
+| Visual Basic, VBA       |                              |      |         |         |
+| Zig                     |                              |      |         |         |
+
+ 
+
+3. Thinking only about the TECHNICAL aspects or features of Julia, which of the following are the TECHNICAL aspects or features you like MOST about Julia? Please select all that apply. ROTATE
 
  
 
@@ -124,6 +134,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Solves the two language problem
 - [ ] Multiple dispatch
 - [ ] Distributed / GPU computing
+- [ ] Type system
 - [ ] Specific package(s)
 - [ ] Integrates well with other language(s)
 - [ ] Editor and IDE support (Emacs, Vi, Juno, VS Code)
@@ -134,7 +145,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 
  
 
-4. Thinking only about the NON-TECHNICAL aspects or features of Julia, what are the NON-TECHNICAL aspects or features you like MOST about Julia? Please select all that apply. ROTATE
+4. Thinking only about the NON-TECHNICAL aspects or features of Julia, which of the following are the NON-TECHNICAL aspects or features you like MOST about Julia? Please select all that apply. ROTATE
 
  
 
@@ -144,7 +155,6 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Easy to create packages
 - [ ] Julia community of developers is warm and welcoming
 - [ ] Easy to get help and information online
-- [ ] Learning a new language, I like learning new languages
 - [ ] Easy to contribute to the language
 - [ ] Lots of great teaching and learning resources available online
 - [ ] Great documentation
@@ -153,7 +163,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 
  
 
-5. Thinking only about the TECHNICAL aspects or features of Julia, what are the TECHNICAL aspects or features you like LEAST about Julia? Please select all that apply. ROTATE
+5. Thinking only about the TECHNICAL aspects or features of Julia, which of the following are the TECHNICAL aspects or features you like LEAST about Julia? Please select all that apply. ROTATE
 
  
 
@@ -169,14 +179,15 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] The debugger is too slow, and/or not fully-featured
 - [ ] Not stable enough
 - [ ] Package manager is confusing, difficult or doesn’t do what I expect it to
+- [ ] Writing performant code is difficult and requires specialized knowledge
 - [ ] Bugs
 - [ ] One-based indexing
+- [ ] No in-language or built-in support for mutable, fixed size arrays
 - [ ] Does not integrate well with other language(s)
 - [ ] I do not feel Julia is well suited to certain tasks
 - [ ] None, there are no technical aspects or features that I dislike about Julia DO NOT ROTATE
 - [ ] Don’t know    DO NOT ROTATE
-
- 
+- [ ]  
 
 6. Thinking only about the NON-TECHNICAL aspects or features of Julia, what are the NON-TECHNICAL aspects or features you like LEAST about Julia? Please select all that apply. ROTATE
 
@@ -190,13 +201,15 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Insufficient documentation
 - [ ] There are not enough teaching and learning resources available online
 - [ ] There are too many things I don’t know how to do in Julia
-- [ ] I have more experience with another language
 - [ ] I am more comfortable in another language
 - [ ] Julia community is not active enough
 - [ ] Julia community is too closed and not welcoming enough
 - [ ] Julia community is not diverse enough
 - [ ] Don’t like learning a new language
-- [ ] I prefer exploring other languages
+- [ ] I feel that the Julia developer team does not communicate its plans or intentions clearly enough
+- [ ] The Julia community is too conservative and too reluctant to make useful changes to the language
+- [ ] The Julia community makes language changes too readily without due consideration
+- [ ] I feel uncomfortable sharing my opinions with the community
 - [ ] None, there are no non-technical aspects or features I dislike about Julia DO NOT ROTATE
 - [ ] Don’t know    DO NOT ROTATE
 
@@ -244,9 +257,10 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Zig
 - [ ] None of the above
 - [ ] Don’t know
-- [ ]  
 
-8. Why did you start using Julia? Please select all that apply. ROTATE
+ 
+
+9. Why did you start using Julia? Please select all that apply. ROTATE
 
  
 
@@ -282,6 +296,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] LinkedIn
 - [ ] Facebook
 - [ ] QQ
+- [ ] JuliaCN
 - [ ] None of these  DO NOT ROTATE
 - [ ] Don’t know    DO NOT ROTATE
 
@@ -297,24 +312,25 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] I use Julia for development as part of a team
 - [ ] I use Julia in production for a business critical task
 - [ ] I use Julia because it is required for classes at my university
+- [ ] I use Julia for hobby programming
 - [ ] None of the above     DO NOT ROTATE
 - [ ] Don’t know    DO NOT ROTATE
 
  
 
-11. Which of the following types of Julia packages have you created, developed, or contributed to? (including documentation, filing issues)
+11. Which of the following types of Julia packages have you created or contributed to, including documentation or filing issues? If you have created some packages of one of the types below and also contributed to but did not create other packages of the same type, then please select both columns for that type of package.
 
  
 
-|                                                              | Created or developed | Contributed to, but did not create or develop | Did not create, develop or contribute |
-| ------------------------------------------------------------ | -------------------- | --------------------------------------------- | ------------------------------------- |
-| Open source and registered in the Julia general registry     |                      |                                               |                                       |
-| Open source and not registered in the Julia general registry |                      |                                               |                                       |
-| Private and not registered in the Julia general registry     |                      |                                               |                                       |
+|                                                              | Created this type of Julia package | Contributed to but did not create this type of  Julia package |
+| ------------------------------------------------------------ | ---------------------------------- | ------------------------------------------------------------ |
+| Open source and registered in the Julia  general registry    |                                    |                                                              |
+| Open source and not registered in the Julia  general registry |                                    |                                                              |
+| Private and not registered in the Julia  general registry    |                                    |                                                              |
 
  
 
-12. When did you first start using Julia? ENTER YEAR (2012-2021)
+12. When did you first start using Julia? ENTER YEAR (2009-2022)
 
  
 
@@ -338,6 +354,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 
  
 
+- [ ] AlphaZero.jl
 - [ ] ApproxFun.jl
 - [ ] BenchmarkTools.jl
 - [ ] Convex.jl
@@ -355,6 +372,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] ForwardDiff.jl
 - [ ] Franklin.jl
 - [ ] Gadfly.jl
+- [ ] Gen.jl
 - [ ] Genie.jl
 - [ ] GLM.jl
 - [ ] IJulia.jl
@@ -394,8 +412,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Zygote.jl
 - [ ] None of the above
 - [ ] Don't know
-
- 
+- [ ]  
 
 15. How robust is the current Julia package ecosystem?
 
@@ -413,20 +430,21 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 
  
 
-- [ ] VS Code with Julia plugin
+- [ ] VS Code
 - [ ] Pluto
 - [ ] Jupyter
 - [ ] JupyterLab
 - [ ] Juno
+- [ ] Nano / Pico
 - [ ] RStudio
 - [ ] Vi / Vim / Neovim
 - [ ] Atom (without Juno)
 - [ ] Emacs
 - [ ] Sublime Text
 - [ ] Notepad++
-- [ ] VS Code without Julia plugin
 - [ ] IntelliJ (or other Jetbrains product)
 - [ ] Kate
+- [ ] Other
 - [ ] None - I write all my code in the Julia REPL    DO NOT ROTATE
 - [ ] Don't know    DO NOT ROTATE
 
@@ -437,6 +455,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
  
 
 - [ ] Local cluster
+- [ ] JuliaHub
 - [ ] Amazon Web Services, AWS
 - [ ] Google Cloud
 - [ ] Microsoft Azure
@@ -467,6 +486,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 
  
 
+- [ ] 2022 (Online)
 - [ ] 2021 (Online)
 - [ ] 2020 (Online)
 - [ ] 2019 (Baltimore)
@@ -489,11 +509,10 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Binaries from JuliaLang.org
 - [ ] I compile Julia from source
 - [ ] From my Linux distribution
-- [ ] JuliaPro
 - [ ] From Homebrew cask on Mac
 - [ ] Official Docker container
 - [ ] Other package manager       DO NOT ROTATE
-- [ ] Don’t know    DO NOT ROTATE
+- [ ] Don’t know                DO NOT ROTATE
 
  
 
@@ -503,14 +522,15 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 
 - [ ] Linux/x86
 - [ ] Windows
+- [ ] Windows with WSL
 - [ ] macOS
 - [ ] macOS/ARM
 - [ ] ChromeOS
 - [ ] Linux/ARM
 - [ ] Linux/PPC
 - [ ] FreeBSD
-- [ ] Other        DO NOT ROTATE
-- [ ] Don’t know    DO NOT ROTATE
+- [ ] Other                    DO NOT ROTATE
+- [ ] Don’t know                DO NOT ROTATE
 
  
 
@@ -522,16 +542,37 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Nvidia GPU (Older than 2 years)
 - [ ] Multiple Nvidia GPUs in one box
 - [ ] AMD GPU
+- [ ] Intel GPU
 - [ ] Distributed cluster of GPUs
 - [ ] Google TPU
 - [ ] Google TPU Pod
-- [ ] Other   DO NOT ROTATE
-- [ ] None  DO NOT ROTATE
-- [ ] Don’t know    DO NOT ROTATE
+- [ ] Other               DO NOT ROTATE
+- [ ] None              DO NOT ROTATE
+- [ ] Don’t know          DO NOT ROTATE
 
  
 
-23. Which of the following do you use as part of your work? Please select all that apply. ROTATE
+23. What resources have you found most useful when learning Julia for the first time or when learning how to do something in Julia? Please select all that apply. ROTATE
+
+ 
+
+- [ ] JuliaAcademy
+- [ ] Exercism Julia track
+- [ ] Julia manual
+- [ ] Webinars
+- [ ] In-person university courses
+- [ ] Online university courses
+- [ ] Other online courses
+- [ ] JuliaCon presentations
+- [ ] Other presentations
+- [ ] YouTube tutorials
+- [ ] Julia books
+- [ ] None of the above     DO NOT ROTATE
+- [ ] Don’t know          DO NOT ROTATE
+
+ 
+
+24. Which of the following do you use as part of your work? Please select all that apply. ROTATE
 
  
 
@@ -542,6 +583,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Optimization
 - [ ] Machine learning
 - [ ] Visualization
+- [ ] Blockchain
 - [ ] Differential equations
 - [ ] Artificial intelligence
 - [ ] Graphics
@@ -554,7 +596,7 @@ DO NOT COMPLETE THE SURVEY AT THIS TIME
 - [ ] Quantum computing
 - [ ] Scripting
 - [ ] None of the above     DO NOT ROTATE
-- [ ] Don’t know    DO NOT ROTATE
+- [ ] Don’t know          DO NOT ROTATE
 
  
 
@@ -562,7 +604,7 @@ The following questions will help us to better understand the demographics of th
 
  
 
-24. Which of the following best describes you? Please select all that apply.
+25. Which of the following best describes you? Please select all that apply.
 
  
 
@@ -606,7 +648,7 @@ Don’t know    DO NOT ROTATE
 
  
 
-26. IF PROFESSIONAL: Which of the following best describes you? Please select all that apply. ROTATE
+27. IF PROFESSIONAL: Which of the following best describes you? Please select all that apply. ROTATE
 
  
 
@@ -626,7 +668,7 @@ Don’t know    DO NOT ROTATE
 
  
 
-27. IF PROFESSIONAL: What is the primary industry in which you work? ROTATE
+28. IF PROFESSIONAL: What is the primary industry in which you work? ROTATE
 
  
 
@@ -670,7 +712,7 @@ Don’t know    DO NOT ROTATE
 
  
 
-28. IF ACADEMIC: What is your primary industry or field of study? Please select all that apply. ROTATE
+29. IF ACADEMIC: What is your primary industry or field of study? Please select all that apply. ROTATE
 
  
 
@@ -722,7 +764,21 @@ Don’t know    DO NOT ROTATE
 
  
 
-30. How many years of coding experience do you have?
+30. What type of improvements to Julia would make you more likely to recommend Julia to other people?
+
+ 
+
+- [ ] More statistical functionality
+- [ ] More web development functionality
+- [ ] More machine learning functionality
+- [ ] Reduced startup time (time to first X)
+- [ ] No improvements are necessary
+- [ ] There is nothing that would make me likely to recommend Julia to other people
+- [ ] Don’t know
+
+ 
+
+31. How many years of coding experience do you have?
 
  
 
@@ -738,7 +794,7 @@ Don’t know    DO NOT ROTATE
 
  
 
-31. What is your age?
+32. What is your age?
 
  
 
@@ -756,9 +812,10 @@ Don’t know    DO NOT ROTATE
 - [ ] 66-70
 - [ ] More than 70
 - [ ] Don’t know, prefer not to answer
-- [ ]  
 
-32. What is the country or region where you currently live / work? Please select all that apply.
+ 
+
+33. What is the country or region where you currently live / work? Please select all that apply.
 
  
 
@@ -1174,7 +1231,7 @@ Prefer not to answer
 
  
 
-33. What is the country where you are originally from? Please select all that apply
+34. What is the country where you are originally from? Please select all that apply
 
  
 
@@ -1590,7 +1647,7 @@ Prefer not to answer
 
  
 
-34. In what language(s) are you fluent? Please select all that apply.
+35. In what language(s) are you fluent? Please select all that apply.
 
  
 
@@ -1736,13 +1793,13 @@ Prefer not to answer
 
  
 
-35. Which of the following best describe your race or ethnicity? Please select all that apply.
+36. Which of the following best describe your race or ethnicity? Please select all that apply.
 
  
 
 - [ ] White, Caucasian, European
 - [ ] Asian, Asian-American
-- [ ] Latin American, Latino, Latina, Hispanic
+- [ ] Latin American, Latino, Hispanic
 - [ ] Black, African, African-American, Caribbean Black
 - [ ] Middle Eastern, Arab, Persian, Turkish
 - [ ] American Indian, Alaska Native, Inuit, First Nations, Métis
@@ -1754,7 +1811,7 @@ Prefer not to answer
 
  
 
-36. What is your gender?
+37. What is your gender?
 
  
 
@@ -1766,7 +1823,7 @@ Prefer not to answer
 
  
 
-37. Do you identify as LGBTQ?
+38. Do you identify as LGBTQ?
 
  
 
@@ -1776,7 +1833,7 @@ Prefer not to answer
 
  
 
-38. Do you identify as underrepresented in science or computing because of your:
+39. Do you identify as underrepresented in science or computing because of your:
 
  
 
@@ -1791,9 +1848,40 @@ Prefer not to answer
 - [ ] Education level
 - [ ] Parents’ education level
 - [ ] Income or socioeconomic status
+- [ ] Political or ideological beliefs
 - [ ] Other/SPECIFY
 - [ ] I do not identify as underrepresented in science or computing
 - [ ] Prefer not to answer
-- [ ]  
 
  
+
+40. IF PROFESSIONAL: Please click here if you would like to enter a raffle to win a free Julia t-shirt, or if you would like Julia Computing to reach out to you to help your business succeed using Julia.
+
+ 
+
+LINKED PAGE:
+
+ 
+
+Thank you for completing the 2022 Julia User and Developer Survey! We greatly value and appreciate your participation.
+
+ 
+
+Please enter your email address here if you would like to enter a raffle to win a free Julia t-shirt, or if you would like Julia Computing to reach out to you to help your business succeed using Julia.
+
+ 
+
+Note that the survey responses you provided are anonymous and will not be connected to your email address.
+
+ 
+
+ENTER EMAIL ADDRESS
+
+ 
+
+I_I Please click this box if you would like to enter a raffle to win a free Julia t-shirt.
+
+I_I Please click this box if you would like Julia Computing to reach out to you to help your business succeed using Julia.
+
+ 
+
